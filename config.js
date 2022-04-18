@@ -4,7 +4,7 @@
 //or put my channel link in the description.
 //~you can recode or copy the codes but give
 //credit.
-//~Thank you to LORD BUDDHA, ME AND MY 
+//~Thank you to LORD YOUSSEF, ME AND MY 
 //FAMILY.
 
 //═══════[modules]════════\\
@@ -29,7 +29,7 @@ global.pengguna = 'Youssef' //username
 global.botnma = 'YSF BOT-YO' //bot name
 global.ownernma = 'Dream Guy Yossef' //owner name
 global.packname = 'Yossef-botros' //sticker package name
-global.author = 'BY YOSSEF' //sticker author name
+global.author = '01289267791' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
