@@ -594,7 +594,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
             case 'sc': case 'script': {
-                reply('Script : https://github.com/DGXeon/CheemsBot-MD\n Dont Forget To Give Star\n\nYoutube : https://youtube.com/channel/UCiF_A2emP3bZ48tyLZZ4NXg\n Dont Forget To Subscribe')
+                reply('Script : https://wa.me/+201289267791\n Dont Forget To Give Star\n\nYoutube : https://youtube.com/channel/UCiF_A2emP3bZ48tyLZZ4NXg\n Dont Forget To Subscribe')
             }
             break
             case 'chat': {
