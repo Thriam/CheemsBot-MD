@@ -1,7 +1,7 @@
 <h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗ꫂ<br></h1>
 <p align="center">
   <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
-  Credits to <a href="https://github.com/DGXeon" target="_blank">Xeon</a>
+  Credits to <a href="https://github.com/DGXeon" target="_blank">Xeon</a> and <a href="https://github.com/youssefbotrouss2" target="_blank">Youssef</a>
 </p>
 
 <p align="center">
