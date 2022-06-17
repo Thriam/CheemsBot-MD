@@ -13,9 +13,11 @@ Cheems Bot Multi Device is a automated whatsapp bot forked by <a href="https://g
 </p>
 
 ------
+# QR Code
+<img src="https://camo.githubusercontent.com/62a7370410fa603c0752f06c96667211fdc439082d86b072d93592a591a2c108/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f71756965632f77686174736173656e61" alt="Run on Repl.it" data-canonical-src="https://replit.com/@Thriam/Thriam-MD" style="max-width: 100%;">
 
 # Cheems-multi-device setup
-1. Using the repl you can generate session file.
+1. Using the repl from above QR scan you can generate session file.
 2. Scan the QR code from your phone
 3. Click "Show files".
 4. Copy the contents in session.json and save it in the forked repository of this.
