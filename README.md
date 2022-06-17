@@ -14,6 +14,16 @@ Cheems Bot Multi Device is a automated whatsapp bot forked by <a href="https://g
 
 ------
 
+# Cheems-multi-device setup
+1. Using the repl you can generate session file.
+2. Scan the QR code from your phone
+3. Click "Show files".
+4. Copy the contents in session.json and save it in the forked repository of this.
+6. Click deploy button at the bottom change the template to your repository.
+7. After it shows "App successfully deployed" click "Manage app" option.
+8. Click the resources tab in the Heroku app page toggle the button to "On" position and click "Confirm button" in the worker section.
+9. Wait for few minutes and the bot will start working.
+
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
